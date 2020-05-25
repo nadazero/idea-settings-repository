@@ -1,0 +1,59 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.4764268" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6689655" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10822511" />
+    <property name="InstalledPluginsSearchHistory" value="Maven Helper&#10;GsonFormat" />
+    <property name="JUnit.Splitter.Proportion" value="0.12028431" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="LiveContextsPanel[0]" value="0.10995052" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.21349275" />
+    <property name="SettingsSearchHistory" value="log&#10;plugin&#10;editor&#10;processor&#10;Anno" />
+    <property name="SplitFileEditor.Proportion" value="0.7489851" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10940919" />
+    <property name="TrendingPluginsSearchHistory" value="Maven Helper&#10;Rainbow Brackets&#10;Properties to YAML Converter&#10;HighlightBracketPair&#10;Grep Console" />
+    <property name="annotationStr" value="@com.google.gson.annotations.SerializedName\s*\(\s*&quot;{filed}&quot;\s*\)" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="entityPackName" value="cn.thepaper.bigdataindex.entity.bean." />
+    <property name="errorCount" value="0" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="file.chooser.recent.files" value="D:/workspace/bigdate_subscribe 20200410&#10;D:/workspace/subscribe_example-master20200519/javaimpl/pom.xml&#10;D:/workspace/es-service1/pom.xml&#10;D:/workspace/exp-service/pom.xml&#10;D:/workspace/exp-service&#10;D:/workspace/bigdate_subscribe/javaimpl&#10;D:/workspace/bigdate_subscribe/javaimpl/subscribe_demo.iml&#10;D:/workspace/bigdataindex 20200430&#10;D:/workspace/bigdate_subscribe 20200117/javaimpl/pom.xml&#10;D:/workspace/bigdataindex&#10;D:/workspace/helloSpringboot2&#10;D:/workspace/hellospringboot&#10;D:/workspace/bigdate_subscribe/javaimpl/src/main/resources&#10;D:/workspace/bigdate_subscribe/javaimpl/pom.xml&#10;D:/workspace/bigdate_subscribe/javaimpl/src/main&#10;D:/workspace/bigdate_subscribe&#10;D:/workspace/SpringBootDemo&#10;D:/workspace/SpringBootDemo/pom.xml&#10;D:/workspace&#10;D:/Program Files/Android/AndroidStudio/jre" />
+    <property name="file.gist.reindex.count" value="781" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="filedNamePreFixStr" value="null" />
+    <property name="generateComments" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="751" />
+    <property name="last.imported.location" value="D:/workspace/SpringBootDemo" />
+    <property name="lastTip" value="1" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="reuseEntity" value="false" />
+    <property name="splitGenerate" value="false" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="suffixStr" value="Bean" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="useSerializedName" value="false" />
+    <property name="virgoMode" value="true" />
+  </component>
+</application>

@@ -1,0 +1,29 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lcpandcode/helloSpringboot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@10.10.4.108:pprec/exp-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@10.10.4.108:pprec/es-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@10.10.4.108:pprec/tianrx/es-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/LioRoger/subscribe_example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="D:\workspace" />
+  </component>
+</application>
